@@ -1,0 +1,42 @@
+.product-list {
+  color: #333;
+  .table {
+    padding: 5px;
+    width: 100%;
+    overflow-x: auto;
+
+    .search {
+      width: 100%;
+      max-width: 300px;
+    }
+
+    
+  }
+}
+
+.uppercase-bold {
+  text-transform: uppercase;
+  font-weight: bold !important;
+  color: white !important;
+  font-size: 11px !important;
+}
+
+.tablecontent{
+  font-size: 11px !important;
+}
+
+.table-head {
+  background-color: #001B33;
+}
+
+.icon-link {
+  text-decoration: none; /* Remove the underline effect */
+  outline: none; /* Remove the focus outline */
+  /* You can add other styles if needed */
+}
+
+.hand-cursor {
+  cursor: pointer;
+}
+
+
